@@ -1,8 +1,8 @@
 # NaiS Database
 
 
-* (TABULA)[https://episcope.eu/] - Typology Approach for Building Stock Energy Assessment
-* (IWU-NWG](https://www.datanwg.de/) - Research Database Nonresidential Buildings
+* [TABULA](https://episcope.eu/) - Typology Approach for Building Stock Energy Assessment
+* [IWU-NWG](ttps://www.datanwg.de/) - Research Database Nonresidential Buildings
 * [Albauatlas](https://www.altbauatlas.de/) - Historic building materials and constructions
 * [EPD]() - Environmental Product Declaration
 * [CRREM Pathways](https://crrem.org/) - Carbon Risk Real Estate Monitor
