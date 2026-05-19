@@ -21,10 +21,10 @@
 
 ```bibtex
 @software{SDM_NaiS-DB,
-	title        = {SDM_NaiS-DB},
+	title        = {{SDM\_NaiS-DB}},
 	author       = {Yingcong Zhong, Andreas Geiger},
 	url          = {https://github.com/KIT-IAI/SDM_NaiS-DB},
-	date         = {2025}
+	year         = {2025}
 }
 ```
 
