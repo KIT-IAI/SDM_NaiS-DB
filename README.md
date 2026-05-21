@@ -8,14 +8,21 @@
 * [CRREM Pathways](https://crrem.org/) - Carbon Risk Real Estate Monitor
 
 
-## Dependencies
+## Requirements
 
-### Use of vcpkg:
+- Python 3.12
+- `uv`
+- the raw source files in the expected `data/raw/` folders
 
-|Package Name         |Install Command                            |
-|:---                 |:---                                       |
-|wxwidgets            |vcpkg install wxwidgets triplet=x64-windows|
-|sqlite3              |vcpkg install sqlite3 triplet=x64-windows  |
+
+## How to use
+
+```bash
+uv python install 3.12
+uv sync
+uv run python -m scripts.build_all
+```
+
 
 ## How to cite
 
