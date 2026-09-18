@@ -34,7 +34,13 @@ uv run python -m scripts.build_all
 	year         = {2025}
 }
 ```
-
+```bibtex
+@inproceedings{Zhong2026NaiS-DB,
+	title        = {{An Integrated Multi-Source Typology Database for Generation of Simulation-Ready Building Models}},
+	author       = {Yingcong Zhong, Andreas Geiger, Karl-Heinz Haefele, Veit Hagenmeyer},
+	year         = {2026},
+}
+```
 
 
 
